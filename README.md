@@ -1,3 +1,3 @@
 # GBATypewriter
 
-This project is a typewriter written in C, runnable on the Gameboy Advance.
+This project is a typewriter written in C, executable on the Gameboy Advance.
